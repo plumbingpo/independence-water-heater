@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://independencewaterheaterco.com/sitemap.xml
